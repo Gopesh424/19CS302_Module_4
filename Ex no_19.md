@@ -3,11 +3,13 @@
 ## AIM:To write a C program to perform basic left and right shift operations on a given integer and display the result.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. Start
+2. Input an integer
+3. Input number of positions to shift
+4. Perform left shift
+5. Perform right shift
+6. Display ther results
+7. End
 
 ## Program:
 ```
@@ -44,7 +46,9 @@ RegisterNumber:
 
 ## Output:
 Original number      = 4
+
 After left shift     = 8
+
 After right shift    = 2
 
 
